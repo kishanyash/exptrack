@@ -1,0 +1,10 @@
+
+  {
+    "schema": "./utils/schema.jsx",
+    "dialect": "postgresql",
+    "dbCredentials": {
+      "url": "postgresql://Expenses-Tracker_owner:zF4MWV8uDAvq@ep-solitary-firefly-a563qr6d.us-east-2.aws.neon.tech/Expenses-Tracker?sslmode=require"
+    }
+  }
+  
+  
